@@ -1,0 +1,6 @@
+{
+  "name": "Met Éireann Alerts",
+  "country": "IE",
+  "iot_class": "Cloud Polling",
+  "render_readme": true
+}
