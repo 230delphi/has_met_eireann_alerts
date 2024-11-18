@@ -3,6 +3,7 @@
   "name": "Met Éireann Alerts",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/met_eireann_alerts",
+  "issue_tracker": "https://github.com/230delphi/has_met_eireann_alerts/issues",
   "requirements": ["pyMetEireann==0.2"],
   "codeowners": ["@230delphi"],
   "iot_class": "cloud_polling",
